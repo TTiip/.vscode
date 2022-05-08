@@ -67,7 +67,8 @@
     "jsonc": true,
     "typescript": true
   },
-  "workbench.colorTheme": "Atom One Dark",
+  "workbench.colorTheme": "Vitesse Dark Soft",
   "workbench.iconTheme": "material-icon-theme",
-  "window.zoomLevel": 1
+  "window.zoomLevel": 1,
+  "workbench.productIconTheme": "icons-carbon"
 }
